@@ -1,0 +1,16 @@
+# User config
+author: "trANNESlation"
+tagline: "a digital project"
+description: "translating the complete poems of Anne Sexton to color."
+keywords: "anne sexton, color, poems, poetry"
+email: "giantloosemouths@gmail.com"
+
+
+github: "https://github.com/"
+
+# Site config
+baseurl: "/tranneslation"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
