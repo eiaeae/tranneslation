@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Pretty Ones"
+  title: "Words for Dr. Y: Uncollected Poems"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/fordry/fordryicon.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  title: "Words for Dr. Y: Uncollected Poems"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "1978"
 
 images:
   - image:
@@ -29,5 +29,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pretty Ones, 1962, Houghton Mifflin Co.</p>
+<p>Words for Dr. Y: Uncollected Poems, 1978, Houghton Mifflin Co.</p>
 
