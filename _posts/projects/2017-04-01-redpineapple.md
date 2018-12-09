@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Pretty Ones"
+  title: "To Bedlam and Part Way Back"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/bedlam/bedlamicon.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  title: "To Bedlam and Part Way Back"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "1960"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pretty Ones, 1962, Houghton Mifflin Co.</p>
+<p>To Bedlam and Part Way Back, 1960, Houghton Mifflin Co.</p>
