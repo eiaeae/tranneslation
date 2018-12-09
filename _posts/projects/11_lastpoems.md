@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "anne sexton, poetry, poems"
 
 project:
-  title: "Pretty Ones"
+  title: "Anne's last poems, excerpted from The Complete Poems, 1981"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/lastpoems/lastpoemsicon.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
+  title: "The Complete Poems"
   url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  year: "1981"
 
 images:
   - image:
@@ -29,5 +29,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pretty Ones, 1962, Houghton Mifflin Co.</p>
+<p>Anne's last poems, excerpted from The Complete Poems, 1981, Houghton Mifflin Co.</p>
 
