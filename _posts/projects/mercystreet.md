@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Aqua Pineapple"
-  type: "Jekyll"
+  title: "45 Mercy Street"
+  type: "book"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/mercystreet/mercystreeticon.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Aqua Pineapple Co"
+  title: "45 Mercy Street"
   url: "https://github.com/arnolds/pineapple"
-  year: "2018"
+  year: "1967"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>In many tropical countries, pineapple is prepared and sold on roadsides as a snack. It is sold whole or in halves with a stick inserted. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes, including pizza toppings, or as a grilled ring on a hamburger.</p>
+<p>45 Mercy Street, 1967, Houghton Mifflin Co.</p>
