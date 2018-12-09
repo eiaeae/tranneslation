@@ -10,7 +10,7 @@ project:
   title: "Yellow Pineapple"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/yellowpineapple/transformationsicon.png"
+  logo: "/assets/images/projects/transformations/transformationsicon.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
