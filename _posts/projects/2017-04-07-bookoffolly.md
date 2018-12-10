@@ -17,11 +17,11 @@ images:
     url: "/assets/images/projects/redpineapple/devices.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: " "
 ---
 <p>"Jesus Raises Up the Harlot" from The Book of Folly, published by Houghton Mifflin in 1972.</p>
 
