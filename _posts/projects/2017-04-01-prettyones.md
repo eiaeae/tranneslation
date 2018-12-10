@@ -19,5 +19,8 @@ images:
   - image:
     url: "/assets/images/projects/AS_1962_PRETTYONES_028_plaintext.png"
     alt: "original poem"
+  - image:
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: " "
 ---
 <p>"Flight" from All My Pretty Ones, published by Houghton Mifflin in 1962.</p>
