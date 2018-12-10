@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Love Poems"
+  title: "Love Poems, 1969"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/lovepoems/lovepoemsicon.png"
