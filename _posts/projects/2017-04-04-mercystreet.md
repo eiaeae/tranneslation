@@ -9,7 +9,7 @@ meta:
 project:
   title: "45 Mercy Street, 1967"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/mercystreet/mercystreeticon.png"
 
 images:
