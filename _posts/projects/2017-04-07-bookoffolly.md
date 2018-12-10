@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>The Book of Folly, 1972, Houghton Mifflin Co.</p>
+<p>"Jesus Raises Up the Harlot" from The Book of Folly, published by Houghton Mifflin.</p>
 
