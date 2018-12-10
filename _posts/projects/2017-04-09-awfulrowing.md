@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "The Awful Rowing Toward God, 1975"
+  title: "The Awful Rowing Toward God"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/awfulrowing/awfulrowingicon.png"
@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>"Frenzy" from The Awful Rowing Toward God, published by Houghton Mifflin.</p>
+<p>"Frenzy" from The Awful Rowing Toward God, published by Houghton Mifflin in 1975.</p>
 
