@@ -14,8 +14,8 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/prettyones/AS_1962_PRETTYONES_028_translated.png"
+    alt: "translated poem from All My Pretty Ones"
   - image:
     url: "/assets/images/projects/yellowpineapple/desktop.jpg"
     alt: "Yellow Pineapple website on a desktop device"
