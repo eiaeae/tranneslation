@@ -7,16 +7,10 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "45 Mercy Street"
+  title: "45 Mercy Street, 1967"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/mercystreet/mercystreeticon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "45 Mercy Street"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1967"
 
 images:
   - image:
