@@ -9,7 +9,7 @@ meta:
 project:
   title: "Love Poems, 1969"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/lovepoems/lovepoemsicon.png"
 
 images:
