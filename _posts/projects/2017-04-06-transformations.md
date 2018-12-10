@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Transformations"
+  title: "Transformations, 1971"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/transformations/transformationsicon.png"
