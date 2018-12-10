@@ -11,12 +11,6 @@ project:
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/deathbooks/deathbooksicon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "The Death Notebooks"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1974"
 
 images:
   - image:
