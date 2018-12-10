@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Love Poems, 1969, Houghton Mifflin Co.</p>
+<p>"The Ballad of the Lonely Masturbator" from Love Poems, published by Houghton Mifflin Co.</p>
