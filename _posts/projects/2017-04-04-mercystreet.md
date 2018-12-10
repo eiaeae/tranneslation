@@ -14,8 +14,8 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/mercystreet/AS_1967_MERCYST_054_translated.png"
+    alt: "translated poem from 45 Mercy Street"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
