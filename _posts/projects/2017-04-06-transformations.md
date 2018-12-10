@@ -9,7 +9,7 @@ meta:
 project:
   title: "Transformations, 1971"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/transformations/transformationsicon.png"
 
 images:
