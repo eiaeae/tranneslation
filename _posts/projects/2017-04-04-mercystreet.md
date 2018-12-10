@@ -14,13 +14,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    url: "/assets/images/projects/mercystreet/iframetest.html"
     alt: "Green Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
 ---
 <p>45 Mercy Street, 1967, Houghton Mifflin Co.</p>
