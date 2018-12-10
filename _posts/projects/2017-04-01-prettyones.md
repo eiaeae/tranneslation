@@ -17,8 +17,8 @@ images:
     url: "/assets/images/projects/prettyones/AS_1962_PRETTYONES_028_translated.png"
     alt: "translated poem from All My Pretty Ones"
   - image:
-    url: "/assets/images/projects/AS_1962_PRETTYONES_028_plaintext.png"
-    alt: "original poem"
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: " "
   - image:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: " "
