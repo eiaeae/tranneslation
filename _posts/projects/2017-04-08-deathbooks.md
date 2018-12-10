@@ -14,14 +14,14 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: " "
 ---
 <p>The Death Notebooks, published by Houghton Mifflin in 1974.</p>
 
