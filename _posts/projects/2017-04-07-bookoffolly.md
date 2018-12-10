@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "The Book of Folly, 1972"
+  title: "The Book of Folly"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/bookoffolly/bookoffollyicon.png"
@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>"Jesus Raises Up the Harlot" from The Book of Folly, published by Houghton Mifflin.</p>
+<p>"Jesus Raises Up the Harlot" from The Book of Folly, published by Houghton Mifflin in 1972.</p>
 
