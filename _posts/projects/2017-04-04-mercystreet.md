@@ -17,8 +17,8 @@ images:
     url: "/assets/images/projects/mercystreet/AS_1967_MERCYST_054_translated.png"
     alt: "translated poem from 45 Mercy Street"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/mercystreet/AS_1967_MERCYST_054_plaintext.png"
+    alt: "original poem"
   - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
