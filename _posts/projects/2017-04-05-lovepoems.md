@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Love Poems, 1969"
+  title: "Love Poems"
   type: "book"
   url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/lovepoems/lovepoemsicon.png"
@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>"The Ballad of the Lonely Masturbator" from Love Poems, published by Houghton Mifflin.</p>
+<p>"The Ballad of the Lonely Masturbator" from Love Poems, published by Houghton Mifflin in 1969.</p>
