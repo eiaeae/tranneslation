@@ -17,10 +17,7 @@ images:
     url: "/assets/images/projects/prettyones/AS_1962_PRETTYONES_028_translated.png"
     alt: "translated poem from All My Pretty Ones"
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: "/assets/images/projects/AS_1962_PRETTYONES_028_plaintext.png"
+    alt: "original poem"
 ---
 <p>"Flight" from All My Pretty Ones, published by Houghton Mifflin in 1962.</p>
