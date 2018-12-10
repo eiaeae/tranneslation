@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems"
 
 project:
-  title: "Anne's last poems, excerpted from The Complete Poems, 1981"
+  title: "Anne's last published poems, excerpted from The Complete Poems"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/lastpoems/lastpoemsicon.png"
@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Anne's last poems, excerpted from The Complete Poems, 1981, Houghton Mifflin Co.</p>
+<p>from The Complete Poems, published by Houghton Mifflin in 1981.</p>
 
