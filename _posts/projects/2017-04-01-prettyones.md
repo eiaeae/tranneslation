@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>All My Pretty Ones, 1962, Houghton Mifflin Co.</p>
+<p>"Flight" from All My Pretty Ones, published by Houghton Mifflin.</p>
