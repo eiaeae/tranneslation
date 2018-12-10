@@ -11,12 +11,6 @@ project:
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/lovepoems/lovepoemsicon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Love Poems"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1969"
 
 images:
   - image:
