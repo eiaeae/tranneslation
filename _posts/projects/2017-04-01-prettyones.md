@@ -9,7 +9,7 @@ meta:
 project:
   title: "All My Pretty Ones, 1962"
   type: "book"
-  url: "https://lcmolina.github.io/tranneslation/""
+  url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/prettyones/prettyonesicon.png"
 
 images:
