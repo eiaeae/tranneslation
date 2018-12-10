@@ -11,12 +11,6 @@ project:
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/bookoffolly/bookoffollyicon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "The Book of Folly"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1972"
 
 images:
   - image:
