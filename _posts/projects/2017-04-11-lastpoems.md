@@ -14,14 +14,14 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: " "
 ---
 <p>from The Complete Poems, published by Houghton Mifflin in 1981.</p>
 
