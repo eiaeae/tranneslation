@@ -14,7 +14,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/lovepoems/AS_1969_LUVPOEMS_017_translated.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/aquapineapple/desktop.jpg"
