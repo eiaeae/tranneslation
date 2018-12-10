@@ -7,16 +7,10 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "All My Pretty Ones"
+  title: "All My Pretty Ones, 1962"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/prettyones/prettyonesicon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "All My Pretty Ones"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1962"
 
 images:
   - image:
