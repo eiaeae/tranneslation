@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "Transformations, 1971"
+  title: "Transformations"
   type: "book"
   url: "https://lcmolina.github.io/tranneslation/"
   logo: "/assets/images/projects/transformations/transformationsicon.png"
@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>Transformations, 1971, Houghton Mifflin Co.</p>
+<p>Transformations, published by Houghton Mifflin in 1971.</p>
