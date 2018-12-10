@@ -11,12 +11,6 @@ project:
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/transformations/transformationsicon.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Transformations"
-  url: "https://github.com/arnolds/pineapple"
-  year: "1971"
 
 images:
   - image:
