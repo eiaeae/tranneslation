@@ -14,7 +14,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    url: "/assets/images/projects/transformations/AS_1971_TRANSFORM_014_translated.png"
     alt: " "
   - image:
     url: "/assets/images/projects/aquapineapple/desktop.jpg"
