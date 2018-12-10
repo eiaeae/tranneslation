@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>45 Mercy Street, 1967, Houghton Mifflin Co.</p>
+<p>"The Fierceness of Female" from 45 Mercy Street, published by Houghton Mifflin.</p>
