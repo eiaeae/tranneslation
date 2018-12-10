@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems"
 
 project:
-  title: "The Death Notebooks"
+  title: "The Death Notebooks, 1974"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/deathbooks/deathbooksicon.png"
