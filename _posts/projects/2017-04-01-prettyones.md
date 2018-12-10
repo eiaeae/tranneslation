@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems, color"
 
 project:
-  title: "All My Pretty Ones, 1962"
+  title: "All My Pretty Ones"
   type: "book"
   url: "https://lcmolina.github.io/tranneslation/prettyones/"
   logo: "/assets/images/projects/prettyones/prettyonesicon.png"
@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>"Flight" from All My Pretty Ones, published by Houghton Mifflin.</p>
+<p>"Flight" from All My Pretty Ones, published by Houghton Mifflin in 1962.</p>
