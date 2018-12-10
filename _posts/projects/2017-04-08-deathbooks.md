@@ -7,7 +7,7 @@ meta:
   keywords: "anne sexton, poetry, poems"
 
 project:
-  title: "The Death Notebooks, 1974"
+  title: "The Death Notebooks"
   type: "book"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/deathbooks/deathbooksicon.png"
@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>The Death Notebooks, 1974, Houghton Mifflin Co.</p>
+<p>The Death Notebooks, published by Houghton Mifflin in 1974.</p>
 
