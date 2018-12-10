@@ -14,8 +14,8 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/bookoffolly/AS_1972_FOLLY_024_translated.png"
+    alt: "translated poem from The Book of Folly"
   - image:
     url: "/assets/images/projects/aquapineapple/desktop.jpg"
     alt: " "
