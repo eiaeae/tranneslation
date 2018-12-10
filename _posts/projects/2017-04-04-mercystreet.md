@@ -17,10 +17,10 @@ images:
     url: "/assets/images/projects/mercystreet/AS_1967_MERCYST_054_translated.png"
     alt: "translated poem from 45 Mercy Street"
   - image:
-    url: "/assets/images/projects/mercystreet/AS_1967_MERCYST_054_plaintext.png"
-    alt: "original poem"
+    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    alt: " "
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    alt: " "
 ---
 <p>"The Fierceness of Female" from 45 Mercy Street, published by Houghton Mifflin in 1967.</p>
