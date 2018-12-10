@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>The Awful Rowing Toward God, 1975, Houghton Mifflin Co.</p>
+<p>"Frenzy" from The Awful Rowing Toward God, published by Houghton Mifflin.</p>
 
