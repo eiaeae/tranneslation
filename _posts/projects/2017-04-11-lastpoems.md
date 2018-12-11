@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: " "
 ---
-<p>from The Complete Poems, published by Houghton Mifflin in 1981.</p>
+<p>Translation coming soon from The Complete Poems, published by Houghton Mifflin in 1981.</p>
 
