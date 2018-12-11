@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: " "
 ---
-<p>Transformations, published by Houghton Mifflin in 1971.</p>
+<p>An excerpt from "The Twelve Dancing Princesses" from Transformations, published by Houghton Mifflin in 1971.</p>
