@@ -23,5 +23,5 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: " "
 ---
-<p>The Death Notebooks, published by Houghton Mifflin in 1974.</p>
+<p>Translation coming soon from The Death Notebooks, published by Houghton Mifflin in 1974.</p>
 
