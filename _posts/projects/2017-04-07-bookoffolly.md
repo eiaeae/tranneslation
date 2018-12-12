@@ -9,7 +9,7 @@ meta:
 project:
   title: "The Book of Folly"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "hhttps://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/bookoffolly/bookoffollyicon.png"
 
 images:
