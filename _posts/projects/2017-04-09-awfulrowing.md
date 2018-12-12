@@ -9,7 +9,7 @@ meta:
 project:
   title: "The Awful Rowing Toward God"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/awfulrowing/awfulrowingicon.png"
 
 images:
