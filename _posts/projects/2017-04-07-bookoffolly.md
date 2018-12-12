@@ -9,7 +9,7 @@ meta:
 project:
   title: "The Book of Folly"
   type: "book"
-  url: "hhttps://eiaeae.github.io/tranneslation/"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/bookoffolly/bookoffollyicon.png"
 
 images:
