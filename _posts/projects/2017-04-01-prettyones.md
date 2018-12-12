@@ -9,7 +9,7 @@ meta:
 project:
   title: "All My Pretty Ones"
   type: "book"
-  url: "https://lcmolina.github.io/tranneslation/prettyones/"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/prettyones/prettyonesicon.png"
 
 images:
