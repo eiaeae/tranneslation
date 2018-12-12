@@ -9,7 +9,7 @@ meta:
 project:
   title: "Transformations"
   type: "book"
-  url: "https://lcmolina.github.io/tranneslation/"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/transformations/transformationsicon.png"
 
 images:
