@@ -9,7 +9,7 @@ meta:
 project:
   title: "Love Poems"
   type: "book"
-  url: "https://lcmolina.github.io/tranneslation/"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/lovepoems/lovepoemsicon.png"
 
 images:
