@@ -9,7 +9,7 @@ meta:
 project:
   title: "The Death Notebooks"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/deathbooks/deathbooksicon.png"
 
 images:
