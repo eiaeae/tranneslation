@@ -9,7 +9,7 @@ meta:
 project:
   title: "45 Mercy Street"
   type: "book"
-  url: "https://lcmolina.github.io/tranneslation/"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/mercystreet/mercystreeticon.png"
 
 images:
