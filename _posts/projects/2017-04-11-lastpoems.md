@@ -9,7 +9,7 @@ meta:
 project:
   title: "Anne's last published poems, excerpted from The Complete Poems"
   type: "book"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://eiaeae.github.io/tranneslation/"
   logo: "/assets/images/projects/lastpoems/lastpoemsicon.png"
 
 images:
